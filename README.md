@@ -53,7 +53,7 @@ This course will take you from the basics of Python to exploring many different 
 - Build machine learning models using scikit-learn 
 - Build data pipelines 
 - Data Analysis with Python is delivered through lecture, hands-on labs, and assignments. 
-- It includes following parts:  
+- It includes following parts
 
 ### LEARN TO ANALYZE DATA WITH PYTHON  
 Data Analysis libraries: will learn to use Pandas DataFrames, Numpy multi-dimentional arrays, and SciPy libraries to work with a various datasets. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.  
@@ -81,8 +81,9 @@ Data Analysis libraries: will learn to use Pandas DataFrames, Numpy multi-diment
 - Summarizing the Data Frame 
 - Descriptive Statistics 
 - Basic of Grouping 
-- ANOVA (__AN__alyzis __O__f __VA__riance)
-- Correlation - More on Correlation  
+- ANOVA (**AN**alyzis **O**f **VA**riance)
+- Correlation 
+- More on Correlation  
 
 #### Module 4 
 - Model Development 
